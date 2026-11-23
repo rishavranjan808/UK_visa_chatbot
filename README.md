@@ -51,7 +51,7 @@ uk-visa-chatbot/
    ```bash
    streamlit run app.py
    ```
-   *(Replace `app.py` with the actual name of your Python file.)*
+  
 
 ## Disclaimer
 
