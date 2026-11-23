@@ -5,7 +5,7 @@ VisaGuide AI is a Streamlit web application that answers questions about UK visa
 ## Features
 
 - **Official GOV.UK Retrieval:** Queries the GOV.UK search API (`gov.uk/api/search.json`) and extracts text from official `gov.uk` / `www.gov.uk` pages.
-- **Grounded Answers & Citations:** Uses Groq (`openai/gpt-oss-120b`) with guardrails to avoid guessing rules, cite sources (`[1]`, `[2]`, etc.), and attach direct GOV.UK links below responses.
+- **Grounded Answers & Citations:** Uses Groq with guardrails to avoid guessing rules, cite sources (`[1]`, `[2]`, etc.), and attach direct GOV.UK links below responses.
 - **Broad Immigration Coverage:** Supports questions across Graduate, Skilled Worker, Health and Care Worker, Student, Family/Spouse, Standard Visitor, Innovator Founder, Global Talent, Scale-up Worker, High Potential Individual routes, sponsor licences, self-sponsorship context, ILR, and British citizenship.
 - **Interactive Chat UI:** Built with Streamlit, including multi-turn conversation context and a sidebar topic reference + conversation reset button.
 
