@@ -1,4 +1,4 @@
-# 🇬🇧 VisaGuide AI — UK Immigration Assistant
+# 🇬🇧 UK Immigration Assistant
 
 VisaGuide AI is a Streamlit web application that answers questions about UK visas, immigration routes, and eligibility rules grounded in official **GOV.UK** guidance via **Groq**.
 
